@@ -1,0 +1,2 @@
+C:\Users\270115050\OneDrive - UP Education\Desktop\CPP\Lab3RandomEvenOddNum\Debug\Lab3RandomEvenOddNum.exe
+C:\Users\270115050\OneDrive - UP Education\Desktop\CPP\Lab3RandomEvenOddNum\Debug\Lab3RandomEvenOddNum.pdb

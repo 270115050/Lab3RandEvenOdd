@@ -1,0 +1,3 @@
+﻿  Lab3RandomEvenOddNum.cpp
+C:\Users\270115050\OneDrive - UP Education\Desktop\CPP\Lab3RandomEvenOddNum\Lab3RandomEvenOddNum.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab3RandomEvenOddNum.vcxproj -> C:\Users\270115050\OneDrive - UP Education\Desktop\CPP\Lab3RandomEvenOddNum\Debug\Lab3RandomEvenOddNum.exe
